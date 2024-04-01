@@ -1,4 +1,4 @@
-"flask"
-"pymongo"
-"cors"
-"dotenv"
+flask
+pymongo
+flask-cors
+python-dotenv
